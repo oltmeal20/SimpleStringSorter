@@ -1,0 +1,2 @@
+language = "cpp"
+run="clang++-7 -pthread -std=c++17 -o main main.cpp && ./main Luke Sam Walley Mike Albert Samantha Eric Fred Julia Emily Emilia Edward Mark Francis Carol Kate Abby Caroline Sam Sarah Ally Danielle Dan Zach Zack Jake Jimbo Eli Katlyn Elizabeth Brooke Ben Judy Jeffrey William Robert Kami Jake Katie Kaylee Jasmine Maddie Max && ./main"
